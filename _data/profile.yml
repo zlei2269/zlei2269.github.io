@@ -3,8 +3,8 @@ secondary_name: "Harry"
 navbar_name: "Zhihao Lei"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
+- logo: /assets/images/badges/Cornell_University_seal.svg.png  # Logo is optional
+  name: Senior Research Fellow
 # - name: Position 2 without logo
 
 
