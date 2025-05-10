@@ -35,16 +35,24 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: Cornell University
+  logo: /assets/images/badges/Cornell_University_seal.svg.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+    Department of Statistics and Data Science <br/>
+    M.P.S in Applied Statistics
+  date: Aug. 2025 - present
+- name: Brown University
+  logo: /assets/images/badges/Shield_of_Brown_University.svg.png
+  position: >- 
+    Department of Biostatistics <br/>
+    Visiting Scholar
+  date: Jul. 2014 - Sep. 2024
+  - name: University of Edinburgh
+  logo: /assets/images/badges/University_of_Edinburgh_ceremonial_roundel.svg.png
+  position: >- 
+    School of Mathematics <br/>
+    B.Sc. Hons in Mathematics and Statistics
+  date: Sep. 2021 - May. 2025
 
 # experience:
 # - name: Peking University
