@@ -9,22 +9,24 @@ redirect_from:
 
 
 <h3>Hi there, I'm Zhihao Lei &#128075;</h3>
-<p align = "justify"> 
-  I am a postdoctoral research fellow with the Department of Earth and Atmospheric Sciences and the Department of Electrical and Computer Engineering at University of Houston. I obtained my PhD in Geophysics in 2021 from <a href="https://english.pku.edu.cn" target="_blank" rel="noopener noreferrer">Peking University</a> (PKU), China, and BS in Geophysics in 2016 from the <a href="https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young" target="_blank" rel="noopener noreferrer">Special Class for the Gifted Young</a> at the <a href="https://en.ustc.edu.cn/" target="_blank" rel="noopener noreferrer">University of Science and Technology in China</a> (USTC), China.
-</p> 
-<p align = "justify"> 
-I am currently working with <a href="https://sites.google.com/view/jiajiasun" target="_blank" rel="noopener noreferrer">Dr. Jiajia Sun</a> and <a href="https://modal.ece.uh.edu/" target="_blank" rel="noopener noreferrer">Dr. Jiefu Chen</a> on quantifying the uncertainties of geophysical inverse problems, exploring natural hydrogen resources, and investigating the formation mechanisms of oceanic plateaus using marine magnetic data.
+<p align="justify">
+I am a senior research fellow at the <a href="https://stat.cornell.edu" target="_blank" rel="noopener noreferrer">Department of Statistics and Data Science</a> at Cornell University. I received my BSc (Hons) with First Class Honours in Mathematics and Statistics in 2025 from the <a href="https://www.ed.ac.uk/" target="_blank" rel="noopener noreferrer">University of Edinburgh</a>, United Kingdom.
 </p>
-<p align = "justify"> 
-Before joining UH, I completed a two-year postdoctoral research program supervised by <a href="https://scholar.google.com/citations?user=mvImZ_oAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Prof. Qinghua Huang</a> at PKU in 2023.
+<p align="justify">
+Previously, I was a visiting scholar in the <a href="https://biostatistics.sph.brown.edu/" target="_blank" rel="noopener noreferrer">Department of Biostatistics</a> at Brown University, where I worked with <a href="https://vivo.brown.edu/display/rg5" target="_blank" rel="noopener noreferrer">Prof. Roee Gutman</a> on Bayesian methods for causal inference and health data integration, particularly in the context of multi-treatment comparison and end-of-life healthcare analytics.
 </p>
-<p align = "justify"> 
+<p align="justify">
+Currently, I am collaborating with <a href="https://www.fau.edu/research-admin/postdoc-affairs/postdoc-bio-wen-zhang/" target="_blank" rel="noopener noreferrer">Dr. Wen Zhang</a> from Florida Atlantic University on integrating statistical learning techniques with computational genomics, focusing on transcriptome imputation and biological network modeling to uncover mechanisms underlying complex traits and psychiatric disorders.
+</p>
+<p align="justify">
 <strong>My research interests include:</strong>
 </p>
-  
+
 <ul>
-<li>Uncertainty quantification of geophysical inverse problems based on machine learning techniques</li>
-<li>Deep learning-based signal processing, modeling, imaging, uncertainty quantification of electromagnetic data, especially airborne electromagnetic data</li>
-<li>Near-surface hydrological investigation</li>
-<li>Hydrogen exploration</li>
+  <li>Biostatistical methods for public health and biomedical research</li>
+  <li>Computational genetics and transcriptome data analysis</li>
+  <li>Bioinformatics and network-based modeling of complex traits</li>
+  <li>Statistical learning for large-scale genomic and health data</li>
 </ul>
+
+
