@@ -23,13 +23,13 @@ repository               : "zlei2269/zlei2269.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Zhihao Lei"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "M.P.S. in Applied Statistics"
+  location         : "Ithaca, NY"
+  employer         : "Cornell University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zl2269@cornell.edu" 
 
   # Academic websites
   academia         : # URL
