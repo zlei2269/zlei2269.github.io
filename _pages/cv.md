@@ -13,6 +13,7 @@ Education
 ======
 * M.P.S. in Applied Statistics, Cornell University, Aug. 2025 - May 2026
 * BSc (Hons) in Mathematics and Statistics, University of Edinburgh, Sep. 2021 - May 2025
+* Visiting Scholar, Department of Biostatistics, Brown University, Jul. 2024 - Sep. 2024
 
 Work experience
 ======
