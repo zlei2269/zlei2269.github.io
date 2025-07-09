@@ -17,7 +17,7 @@ Education
 
 News
 ======
-*  <strong>2025.03.04</strong> — Invited by <a href="https://www.ndph.ox.ac.uk/team/nazrul-islam" target="_blank" rel="noopener noreferrer">Prof. Nazrul Islam</a> (University of Oxford) to serve as a peer reviewer for <i>The BMJ</i>, one of the top four medical journals.
+*  <strong>2025.03.04</strong> — Invited by <a href="https://www.ctsu.ox.ac.uk/team/nazrul-islam" target="_blank" rel="noopener noreferrer">Prof. Nazrul Islam</a> (University of Oxford) to serve as a peer reviewer for <i>The BMJ</i>, one of the top four medical journals.
   
   
 
