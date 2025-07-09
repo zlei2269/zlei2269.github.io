@@ -15,20 +15,17 @@ Education
 * BSc (Hons) in Mathematics and Statistics, University of Edinburgh, Sep. 2021 - May 2025
 * Visiting Scholar, Department of Biostatistics, Brown University, Jul. 2024 - Sep. 2024
 
-</ul>
 
 News
 ======
 *  <strong>2025.03.04</strong> — Invited by <a href="https://www.ctsu.ox.ac.uk/team/nazrul-islam" target="_blank" rel="noopener noreferrer">Prof. Nazrul Islam</a> (University of Oxford) to serve as a peer reviewer for <i>The BMJ</i>, one of the top four medical journals.
   
-</ul>
 
 Honors and Awards
 ======
 * <strong>Winner, Urban Views Category</strong> — University of Edinburgh Photography Competition (2024/25) [<a href="https://global.ed.ac.uk/stories/photography-competition-winners-edinburgh-in-focus" target="_blank" rel="noopener noreferrer">Link</a>]
-* <strong>Year 4 and MMath Student Representative</strong> — School of Mathematics, University of Edinburgh <span style="float:right;">Sep. 2024 – May 2025</span>
+* <strong>Year 4 and MMath Student Representative</strong> — School of Mathematics, University of Edinburgh, Sep. 2024 – May 2025
 
-</ul>
 
 Reviewers
 ======
