@@ -26,7 +26,7 @@ News
 Honors and Awards
 ======
 * <strong>Winner, Urban Views Category</strong> — University of Edinburgh Photography Competition (2024/25) [<a href="https://global.ed.ac.uk/stories/photography-competition-winners-edinburgh-in-focus" target="_blank" rel="noopener noreferrer">Link</a>]
-* <strong>Year 4 and MMath Student Representative</strong> — School of Mathematics, University of Edinburgh, Sep. 2024 – May 2025
+* <li><strong>Year 4 and MMath Student Representative</strong> — School of Mathematics, University of Edinburgh, Sep. 2024 – May 2025 [<a href="https://mathsoc.tardis.ac/committee/year-reps/1731264535470-4th-year-representative/" target="_blank" rel="noopener noreferrer">Link</a>]</li>
 
 <p>&nbsp;</p>
 
