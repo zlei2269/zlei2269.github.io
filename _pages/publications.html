@@ -10,27 +10,22 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+<p align = "justify"> 
+<h2>Journal articles</h2>
+<ol reversed>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<li><strong>Lei, Z.</strong> (2025). Addressing the indirect health burden of COVID-19. <i>BMJ, 390</i>, r1268. [<a href="https://doi.org/10.1136/bmj.r1268" target="_blank" rel="noopener noreferrer">Link</a>]</li>
 
+<li>Lin, P., Zhou, J., Meng, S., <strong>Lei, Z.</strong>, Jin, L., Qiu, H., Xu, Y., Hsu, T., Bu, Y., Qin, G., & Zhang, W. (2025). Deep learning-driven discovery of potential antibiotic-resistance drugs targeting <i>Klebsiella pneumoniae</i>. <i>bioRxiv</i>. [<a href="https://doi.org/10.1101/2024.11.25.625191" target="_blank" rel="noopener noreferrer">Link</a>] [Currently under review at <i>Biology Methods & Protocols</i>]</li>
+
+<li><strong>Lei, Z.</strong> (2025). A comprehensive statistical analysis of COVID-19 trends: Global and United States insights through ARIMA, regression, and spatial models. Advance online publication. <i>Microbes & Immunity</i>. [<a href="https://doi.org/10.36922/MI025040007" target="_blank" rel="noopener noreferrer">Link</a>]</li>
+
+<li><strong>Lei, Z.</strong> (2025). From image to insight: Is MRI-based genotyping ready for the clinic? <i>Liver International, 45(7)</i>, e70193. [<a href="https://doi.org/10.1111/liv.70193" target="_blank" rel="noopener noreferrer">Link</a>]</li>
+
+<li><strong>Lei, Z.</strong> (2025). Letter to the Editor on “The Statistical Fragility of Randomized Controlled Trials in Kidney Stone Management: An Analysis of AUA and EAU Guidelines.” <i>Urology</i>. Advance online publication. [<a href="https://doi.org/10.1016/j.urology.2025.05.073" target="_blank" rel="noopener noreferrer">Link</a>]</li>
+
+<li>Dong, B., Xu, H., Tang, N., Jiang, M., <strong>Lei, Z.</strong>, & Han, Y. (2025). Analysis of key factors and equity in influenza vaccination among Chinese adults: Evidence from a large national cross-sectional survey. <i>Frontiers in Public Health, 13</i>, 1601577. [<a href="https://doi.org/10.3389/fpubh.2025.1601577" target="_blank" rel="noopener noreferrer">Link</a>]</li>
+
+<li>Jin, L., <strong>Lei, Z.</strong>, Lin, P., Ma, C., Zhang, W., Zhou, J., Meng, S., Jiang, Z., Bu, Y., Xu, Y., Wei, N., Hsu, T., Qin, G., & Qiu, H. (2024). Deep learning with evolutionary scale modeling to discover antibiotic-resistance drug against <i>Klebsiella pneumoniae</i>. <i>bioRxiv</i>. [<a href="https://doi.org/10.1101/2024.11.09.622818" target="_blank" rel="noopener noreferrer">Link</a>]</li>
 
 
