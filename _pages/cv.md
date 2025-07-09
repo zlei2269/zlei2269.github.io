@@ -23,6 +23,13 @@ News
   
 </ul>
 
+Honors and Awards
+======
+* <strong>Winner, Urban Views Category</strong> — University of Edinburgh Photography Competition (2024/25) [<a href="https://global.ed.ac.uk/stories/photography-competition-winners-edinburgh-in-focus" target="_blank" rel="noopener noreferrer">Link</a>]
+* <strong>Year 4 and MMath Student Representative</strong> — School of Mathematics, University of Edinburgh <span style="float:right;">Sep. 2024 – May 2025</span>
+
+</ul>
+
 Reviewers
 ======
 * The BMJ
