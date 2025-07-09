@@ -15,11 +15,13 @@ Education
 * BSc (Hons) in Mathematics and Statistics, University of Edinburgh, Sep. 2021 - May 2025
 * Visiting Scholar, Department of Biostatistics, Brown University, Jul. 2024 - Sep. 2024
 
+</ul>
+
 News
 ======
 *  <strong>2025.03.04</strong> — Invited by <a href="https://www.ctsu.ox.ac.uk/team/nazrul-islam" target="_blank" rel="noopener noreferrer">Prof. Nazrul Islam</a> (University of Oxford) to serve as a peer reviewer for <i>The BMJ</i>, one of the top four medical journals.
   
-  
+</ul>
 
 Reviewers
 ======
