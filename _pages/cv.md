@@ -15,50 +15,16 @@ Education
 * BSc (Hons) in Mathematics and Statistics, University of Edinburgh, Sep. 2021 - May 2025
 * Visiting Scholar, Department of Biostatistics, Brown University, Jul. 2024 - Sep. 2024
 
-Work experience
+News
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+*  <li><strong>2025.03.04</strong> — Invited by <a href="https://www.ndph.ox.ac.uk/team/nazrul-islam" target="_blank" rel="noopener noreferrer">Prof. Nazrul Islam</a> (University of Oxford) to serve as a peer reviewer for <i>The BMJ</i>, one of the top four medical journals.
+  
+  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Reviewers
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* The BMJ
+* Cancer Gene Therapy
+* Frontiers in Public Health
+* Medical Science Monitor
+* Open Medicine
