@@ -34,6 +34,7 @@ Reviewers
 ======
 * The BMJ
 * Cancer Gene Therapy
+* Scientific Reports
 * Frontiers in Public Health
 * Medical Science Monitor
 * Open Medicine
