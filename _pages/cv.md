@@ -18,8 +18,7 @@ Education
 
 Visiting  Appointment
 ======
-* Visiting Scholar, Department of Biostatistics, Brown University, Jul. 2024 - Sep. 2024
-  PI: <a href="https://vivo.brown.edu/display/rg5" target="_blank" rel="noopener noreferrer">Prof. Roee Gutman</a>
+* Visiting Scholar, Department of Biostatistics, Brown University, Jul. 2024 - Sep. 2024 (PI: <a href="https://vivo.brown.edu/display/rg5" target="_blank" rel="noopener noreferrer">Prof. Roee Gutman</a>)
 
 <p>&nbsp;</p>
 
