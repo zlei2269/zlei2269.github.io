@@ -13,7 +13,13 @@ Education
 ======
 * M.P.S. in Applied Statistics, Cornell University, Aug. 2025 - May 2026
 * BSc (Hons) in Mathematics and Statistics, University of Edinburgh, Sep. 2021 - May 2025
+
+<p>&nbsp;</p>
+
+Visiting  Appointment
+======
 * Visiting Scholar, Department of Biostatistics, Brown University, Jul. 2024 - Sep. 2024
+  PI: <a href="https://vivo.brown.edu/display/rg5" target="_blank" rel="noopener noreferrer">Prof. Roee Gutman</a>
 
 <p>&nbsp;</p>
 
