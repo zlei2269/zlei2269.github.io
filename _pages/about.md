@@ -16,7 +16,7 @@ I am a senior research fellow at the <a href="https://stat.cornell.edu" target="
 Previously, I was a visiting scholar in the <a href="https://biostatistics.sph.brown.edu/" target="_blank" rel="noopener noreferrer">Department of Biostatistics</a> at Brown University, where I worked with <a href="https://vivo.brown.edu/display/rg5" target="_blank" rel="noopener noreferrer">Prof. Roee Gutman</a> on Bayesian methods for causal inference and health data integration, particularly in the context of multi-treatment comparison and end-of-life healthcare analytics.
 </p>
 <p align="justify">
-Currently, I am collaborating with <a href="https://www.fau.edu/research-admin/postdoc-affairs/postdoc-bio-wen-zhang/" target="_blank" rel="noopener noreferrer">Dr. Wen Zhang</a> from Florida Atlantic University on integrating statistical learning techniques with computational genomics, focusing on transcriptome imputation and biological network modeling to uncover mechanisms underlying complex traits and psychiatric disorders.
+Currently, I am collaborating with <a href="https://scholar.google.com/citations?user=N6KebJsAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Dr. Wen Zhang</a> from Florida Atlantic University on integrating statistical learning techniques with computational genomics, focusing on transcriptome imputation and biological network modeling to uncover mechanisms underlying complex traits and psychiatric disorders.
 </p>
 <p align="justify">
 <strong>My research interests include:</strong>
