@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.P.S. in Applied Statistics, Cornell University, Aug. 2025 - May 2026
+* M.P.S. in Data Science and Applied Statistics, Cornell University, Aug. 2025 - May 2026
 * BSc (Hons) in Mathematics and Statistics, University of Edinburgh, Sep. 2021 - May 2025
 
 <p>&nbsp;</p>
