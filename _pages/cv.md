@@ -22,6 +22,12 @@ Visiting  Appointment
 
 <p>&nbsp;</p>
 
+Professional Memberships
+======
+*  Fellow, <a href="https://rss.org.uk" target="_blank" rel="noopener noreferrer">Royal Statistical Society</a>(FRSS) — Since 2025
+
+<p>&nbsp;</p>
+
 News
 ======
 *  <strong>2025.03.04</strong> — Invited by <a href="https://www.ctsu.ox.ac.uk/team/nazrul-islam" target="_blank" rel="noopener noreferrer">Prof. Nazrul Islam</a> (University of Oxford) to serve as a peer reviewer for <i>The BMJ</i>, one of the top four medical journals.
@@ -35,7 +41,7 @@ Honors and Awards
 
 <p>&nbsp;</p>
 
-Reviewers
+Reviewing Activities
 ======
 * The BMJ
 * Cancer Gene Therapy
