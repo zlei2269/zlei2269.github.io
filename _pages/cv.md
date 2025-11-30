@@ -24,7 +24,7 @@ Visiting  Appointment
 
 Professional Memberships
 ======
-*  Fellow, <a href="https://rss.org.uk" target="_blank" rel="noopener noreferrer">Royal Statistical Society</a>(FRSS) — Since 2025
+*  Fellow, <a href="https://rss.org.uk" target="_blank" rel="noopener noreferrer">Royal Statistical Society</a> (FRSS) — Since 2025
 
 <p>&nbsp;</p>
 
