@@ -25,6 +25,8 @@ Visiting  Appointment
 Professional Memberships
 ======
 *  Fellow, <a href="https://rss.org.uk" target="_blank" rel="noopener noreferrer">Royal Statistical Society</a> (FRSS) — Since 2025
+*  Member, <a href="https://www.amstat.org" target="_blank" rel="noopener noreferrer">American Statistical Association</a> — Since 2025
+*  Member, <a href="https://imstat.org" target="_blank" rel="noopener noreferrer">Institute of Mathematical Statistics</a> — Since 2025
 
 <p>&nbsp;</p>
 
