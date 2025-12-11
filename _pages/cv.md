@@ -45,9 +45,10 @@ Honors and Awards
 
 Reviewing Activities
 ======
-* The BMJ
-* Cancer Gene Therapy
-* Scientific Reports
-* Frontiers in Public Health
-* Medical Science Monitor
-* Open Medicine
+* The BMJ (IF: 42.7)
+* Phytomedicine (IF: 8.3)
+* Cancer Gene Therapy (IF: 5.0)
+* Scientific Reports (IF: 3.9)
+* Frontiers in Public Health (IF: 3.4)
+* Medical Science Monitor (IF: 2.1)
+* Open Medicine (IF: 1.6)
