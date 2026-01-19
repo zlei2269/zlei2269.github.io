@@ -10,7 +10,7 @@ redirect_from:
 
 <h3>Hi there, I'm Zhihao Lei &#128075;</h3>
 <p align="justify">
-I am a senior research fellow at the <a href="https://stat.cornell.edu" target="_blank" rel="noopener noreferrer">Department of Statistics and Data Science</a> at Cornell University. I received my BSc (Hons) with First Class Honours in Mathematics and Statistics in 2025 from the <a href="https://www.ed.ac.uk/" target="_blank" rel="noopener noreferrer">University of Edinburgh</a>, United Kingdom.
+I am a research fellow at the <a href="https://stat.cornell.edu" target="_blank" rel="noopener noreferrer">Department of Statistics and Data Science</a> at Cornell University. I received my BSc (Hons) with First Class Honours in Mathematics and Statistics in 2025 from the <a href="https://www.ed.ac.uk/" target="_blank" rel="noopener noreferrer">University of Edinburgh</a>, United Kingdom.
 </p>
 <p align="justify">
 Previously, I was a visiting scholar in the <a href="https://biostatistics.sph.brown.edu/" target="_blank" rel="noopener noreferrer">Department of Biostatistics</a> at Brown University, where I worked with <a href="https://vivo.brown.edu/display/rg5" target="_blank" rel="noopener noreferrer">Prof. Roee Gutman</a> on Bayesian methods for causal inference and health data integration, particularly in the context of multi-treatment comparison and end-of-life healthcare analytics.
