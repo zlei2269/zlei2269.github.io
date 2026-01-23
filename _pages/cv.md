@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.P.S. in Data Science and Applied Statistics, Cornell University, Aug. 2025 - May 2026 (Advisor: <a href="https://pi.math.cornell.edu/~marten/" target="_blank" rel="noopener noreferrer">Prof. Marten Wegkamp</a>(IMS Fellow)
-* BSc (Hons) in Mathematics and Statistics, University of Edinburgh, Sep. 2021 - May 2025 (Advisor: <a href="https://webhomes.maths.ed.ac.uk/~dhigham/" target="_blank" rel="noopener noreferrer">Prof. Desmond Higham</a>(FRSE, SIAM Fellow)
+* M.P.S. in Data Science and Applied Statistics, Cornell University, Aug. 2025 - May 2026 (Advisor: <a href="https://pi.math.cornell.edu/~marten/" target="_blank" rel="noopener noreferrer">Prof. Marten Wegkamp</a> (IMS Fellow)
+* BSc (Hons) in Mathematics and Statistics, University of Edinburgh, Sep. 2021 - May 2025 (Advisor: <a href="https://webhomes.maths.ed.ac.uk/~dhigham/" target="_blank" rel="noopener noreferrer">Prof. Desmond Higham</a> (FRSE, SIAM Fellow)
 
 <p>&nbsp;</p>
 
