@@ -27,6 +27,7 @@ Professional Memberships
 *  Fellow, <a href="https://rss.org.uk" target="_blank" rel="noopener noreferrer">Royal Statistical Society</a> (FRSS) — Since 2025
 *  Member, <a href="https://www.amstat.org" target="_blank" rel="noopener noreferrer">American Statistical Association</a> — Since 2025
 *  Member, <a href="https://imstat.org" target="_blank" rel="noopener noreferrer">Institute of Mathematical Statistics</a> — Since 2025
+*  Full Member, <a href="https://www.sigmaxi.org/" target="_blank" rel="noopener noreferrer">Sigma Xi, The Scientific Research Honor Society</a> — Since 2026
 
 <p>&nbsp;</p>
 
