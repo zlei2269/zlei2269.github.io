@@ -47,7 +47,7 @@ Honors and Awards
 
 Reviewing Activities
 ======
-* The BMJ (IF: 42.7; <a href="https://www.bmj.com/about-bmj/resources-reviewers/bmj-reviewers" target="_blank" rel="noopener noreferrer">2025 Annual List of Reviewers</a>)
+* The BMJ (IF: 43; <a href="https://www.bmj.com/about-bmj/resources-reviewers/bmj-reviewers" target="_blank" rel="noopener noreferrer">2025 Annual List of Reviewers</a>)
 * Phytomedicine (IF: 8.3)
 * Cancer Gene Therapy (IF: 5.0; Recognized as <a href="https://www.nature.com/cgt/editors/reviewer-recognition" target="_blank" rel="noopener noreferrer">Top Reviewer</a> in 2025 by Springer Nature)
 * IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2025, CCF-B)
