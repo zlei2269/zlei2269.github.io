@@ -33,8 +33,8 @@ Professional Memberships
 
 News
 ======
-*  <strong>2025.03.04</strong> — Invited by <a href="https://www.ctsu.ox.ac.uk/team/nazrul-islam" target="_blank" rel="noopener noreferrer">Prof. Nazrul Islam</a> (University of Oxford) to serve as a peer reviewer for <i>The BMJ</i>, one of the top four medical journals.
 *  <strong>2026.01.28</strong> — Nominated for Full Membership in <a href="https://www.sigmaxi.org/" target="_blank" rel="noopener noreferrer">Sigma Xi, The Scientific Research Honor Society</a>, in recognition of scholarly achievements and contributions to scientific research.
+*  <strong>2025.03.04</strong> — Invited by <a href="https://www.ctsu.ox.ac.uk/team/nazrul-islam" target="_blank" rel="noopener noreferrer">Prof. Nazrul Islam</a> (University of Oxford) to serve as a peer reviewer for <i>The BMJ</i>, a leading international medical journal.
 
 <p>&nbsp;</p>
 
