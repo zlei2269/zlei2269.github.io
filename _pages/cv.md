@@ -53,5 +53,6 @@ Reviewing Activities
 * IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2025, CCF-B)
 * Scientific Reports (IF: 3.9)
 * Frontiers in Public Health (IF: 3.4)
+* Frontiers in Genetics (IF: 2.8)
 * Medical Science Monitor (IF: 2.1)
 * Open Medicine (IF: 1.6)
